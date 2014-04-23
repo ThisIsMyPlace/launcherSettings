@@ -1,0 +1,12 @@
+An Xposed module to configure diffrent launchers.
+
+Launchers:
+	Launcher3
+
+Features:
+	Hide apps
+
+Todo:
+	More launchers, Launcher 2 will be easy but add some more popular ones. As long as there FOSS.
+	Alter icons, maybe read from icon packs?
+
